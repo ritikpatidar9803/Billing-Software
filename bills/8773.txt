@@ -1,0 +1,34 @@
+	WELCOME TO PATIDAR RETAIL
+======================================
+	CIN :- L51900MH2000PLC128473
+	SGSTIN :- 27AACCA8432H1ZQ
+======================================
+	           Patidar Retail
+	       35/4,Matrix Square
+	   B2-Bypass,Jaipur 302001
+======================================
+======================================
+ Bill Number : 8773
+ Customer Name : Anshul Jain
+ Phone Number : 7854546620
+ Date&Time : 23-05-21 09:40:31
+======================================
+ Products		QTY		Price
+======================================
+ Rice		1		27
+ Rice		2		54
+ Daal		2		90
+ Sugar		5		225
+ Maida		3		150
+ ChillyPowder	2		220
+ Chanaa		1		28
+
+======================================
+ Total :		16		Rs.794.0
+-----------------------------------------------------------------
+ CIN Tax : 	87.34
+ SGSTIN Tax : 	119.1
+======================================
+        This is System generated invoice.
+
+     **YOU SAVED Rs. 79.4 ON M.R.P **
